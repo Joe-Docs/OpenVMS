@@ -1,4 +1,3 @@
-```ruby
 $ !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 $ ! PROGRAM NAME: MAIL.COM                                                                                         !
 $ !                                                                                                                !
@@ -138,4 +137,3 @@ $    IF F$SEARCH("MAIL.OUT") .NES. "" THEN DELETE/NOLOG/NOCONF MAIL.OUT;*
 $        IF F$SEARCH("MAIL_CC.OUT") .NES. "" THEN DELETE/NOLOG/NOCONF MAIL_CC.OUT;*
 $    IF F$SEARCH("MIME_TEMP.OUT") .NES. "" THEN DELETE/NOLOG/NOCONF MIME_TEMP.OUT;*
 $    EXIT
-```
